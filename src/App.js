@@ -105,6 +105,4 @@ tekstic.addEventListener("load", logger);
 tekstic.open("GET", "file.txt");
 tekstic.send();
 
-//ReactDOM.render(<Wrapper />, document.getElementById("root"));
-
 export default Wrapper;
